@@ -41,16 +41,6 @@ li {
   display: flex;
 }
 
-.footer {
-  height: 72px;
-  background: #eee;
-  color: darkmagenta;
-  padding: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .sidebar {
   width: 300px;
   background: royalblue;
@@ -73,4 +63,14 @@ li {
   border-radius: 4px;
   width: 300px;
   padding: 16px;
+}
+
+.footer {
+  height: 72px;
+  background: #eee;
+  color: darkmagenta;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
